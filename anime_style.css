@@ -17,7 +17,6 @@ body{
   margin-right: auto;
   height: 100%;
   text-align: center;
-  border: solid 5px gray 5px;
 }
 .content{
 
@@ -63,5 +62,15 @@ h1{
   width: 50%;
   text-align: left;
   height: 50%;
+}
+h1{
+  font-size: 20px;
+  font-weight: bold;
+}
+.owner{
+  background-color: white;
+  padding: 5px;
+  margin-top: 10px;
+  border-radius: 30px;
 }
 
